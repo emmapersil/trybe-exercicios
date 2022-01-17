@@ -1,0 +1,18 @@
+Comandos usados no terminal:
+
+- docker pull debian:stable-slim
+- docker container run -it debian:stable-slim 
+- cat /etc/*-release
+- exit
+
+- docker ps -a
+- docker container start >id do container<
+- docker attach >id do container<
+- cat /etc/debian_version
+- exit
+
+- docker container rm >id do container<
+
+- docker run -it -rm andrius/ascii-patrol
+- >não consegui passar a fase<
+- ctrl + c
