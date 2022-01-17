@@ -149,9 +149,9 @@ This repository contains all projects developed by _[Emmanuelle Pereira](https:/
 - [ ] 18.1: _[Projeto - App de Receitas]()_
 
 
-## Desenvolvimento Back-end :hourglass_flowing_sand:
+## [Desenvolvimento Back-end](https://github.com/emmapersil/trybe-exercicios/tree/master/back-end) :hourglass_flowing_sand:
 
-##### [Bloco 19:](https://github.com/emmapersil/trybe-exercicios/tree/master/back-end) Docker: Utilizando Containers
+##### Bloco 19: Docker: Utilizando Containers
 
 - [x] 19.1: _Introdução - Back-end_
 - [ ] 19.1: _Utilizando Containers - Docker_
