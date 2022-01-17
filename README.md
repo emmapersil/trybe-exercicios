@@ -151,7 +151,7 @@ This repository contains all projects developed by _[Emmanuelle Pereira](https:/
 
 ## Desenvolvimento Back-end :hourglass_flowing_sand:
 
-##### [Bloco 19:](https://github.com/emmapersil/trybe-exercicios/tree/master/back-end] Docker: Utilizando Containers
+##### [Bloco 19:](https://github.com/emmapersil/trybe-exercicios/tree/master/back-end) Docker: Utilizando Containers
 
 - [x] 19.1: _Introdução - Back-end_
 - [ ] 19.1: _Utilizando Containers - Docker_
