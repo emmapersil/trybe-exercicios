@@ -153,7 +153,7 @@ This repository contains all projects developed by _[Emmanuelle Pereira](https:/
 
 ##### Bloco 19: Docker: Utilizando Containers
 
-- [ ] 19.1: _Introdução - Back-end_
+- [x] 19.1: _Introdução - Back-end_
 - [ ] 19.1: _Utilizando Containers - Docker_
 - [ ] 19.2: _Manipulação e Criação de Imagens no Docker_
 - [ ] 19.3: _Orquestrando Containers com Docker Compose_
