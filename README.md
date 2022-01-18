@@ -164,7 +164,7 @@ This repository contains all projects developed by _[Emmanuelle Pereira](https:/
 - [ ] 20.1: _Introdução - Bancos de dados relacionais_
 - [ ] 20.1: _Banco de dados SQL_
 - [ ] 20.2: _Encontrando dados em um banco de dados_
-- [ ] 20.3: _Filtrando dados de forma especÃ­fica_
+- [ ] 20.3: _Filtrando dados de forma específica_
 - [ ] 20.4: _Manipulando tabelas_
 - [ ] 20.5: _[Projeto - All For One]()_
 
