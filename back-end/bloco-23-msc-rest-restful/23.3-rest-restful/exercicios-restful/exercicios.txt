@@ -1,6 +1,8 @@
 Exercício 1 : Pense qual é o recurso que estamos trabalhando e altere os endpoints para que fiquem padronizados.
--> O recurso nesse caso são os produtos, então mudo as rotas para 'products' e altero os verbos HTTP necessários.
+-> O recurso nesse caso são os produtos, então mudo as rotas para a 'products' já usada no index.js
 
 Exercício 2 : Padronize todos os retornos para JSON.
+-> Em vez de .send , altero para .json nas res.
+
 Exercício 3 : Utilize os verbos (POST, PUT, GET etc.) corretos para cada ação do CRUD.
 Exercício 4 : Garanta que todos os endpoints tenham as respostas (status code) corretas, ou seja, código para quando der tudo certo, código para quando ocorrer erro etc.
