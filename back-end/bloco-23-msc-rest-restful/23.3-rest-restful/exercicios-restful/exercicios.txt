@@ -5,4 +5,6 @@ Exercício 2 : Padronize todos os retornos para JSON.
 -> Em vez de .send , altero para .json nas res.
 
 Exercício 3 : Utilize os verbos (POST, PUT, GET etc.) corretos para cada ação do CRUD.
+-> Utilizo o 'PUT' e 'DELETE' nas rotas correspondentes.
+
 Exercício 4 : Garanta que todos os endpoints tenham as respostas (status code) corretas, ou seja, código para quando der tudo certo, código para quando ocorrer erro etc.
